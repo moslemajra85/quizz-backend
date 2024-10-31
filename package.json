@@ -1,0 +1,15 @@
+{
+  "name": "quizz-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/joi": "^17.2.3",
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "joi": "^17.13.3",
+    "joi-objectid": "^4.0.2",
+    "mongoose": "^8.7.3"
+  }
+}
